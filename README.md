@@ -27,9 +27,9 @@ Given a roman numeral, convert it to an integer. Input is guaranteed to be withi
 
 # About Solution
 
-This solution beats over 98% of other javascript submissions on Leetcode for the same problem. A slightly refactored, and better performing version of this solution is also available in romanToInt_ternary.js.
+This solution beats over 98% of other javascript submissions on Leetcode for the same problem. The main algorithm can be found in romanToInt.js. 
 
-As it's name implies, that version of the solution makes use of ternary operators to make our code more succinct.
+A few other versions, all functional and high performing, can be found within the various root folder files. 
 
 ### Example 1:
 
